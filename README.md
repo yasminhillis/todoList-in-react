@@ -1,6 +1,6 @@
-# counter-in-react
+# todoList-in-react
 
 
-:pushpin: Want to view the counter?
+:pushpin: Want to view the todoList?
 
-➜ [Click here](https://stackblitz.com/edit/react-63wmgx?file=src%2FApp.js)
+➜ [Click here](https://stackblitz.com/edit/react-p44aol?file=src%2Fstyle.css)
